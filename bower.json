@@ -21,7 +21,7 @@
   "authors": [
     "gdi2290 <github@gdi2290.com>"
   ],
-  "main": "angular-websocket.min.js",
+  "main": "angular-websocket.js",
   "ignore": [
     ".bowerrc",
     ".gitignore",
@@ -42,8 +42,7 @@
     "test",
     "tests"
   ],
-  "dependencies": {
-    "angular": "*"
+  "dependencies": {"angular": "*"
   },
   "devDependencies": {
     "angular": "~1.3.11",
