@@ -42,10 +42,10 @@
     "test",
     "tests"
   ],
-  "dependencies": {"angular": "*"
+  "dependencies": {"angular": "master"
   },
   "devDependencies": {
-    "angular": "~1.3.8",
-    "angular-mocks": "~1.3.8"
+    "angular": "master",
+    "angular-mocks": "master"
   }
 }
